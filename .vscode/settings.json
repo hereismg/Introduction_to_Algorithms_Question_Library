@@ -1,0 +1,25 @@
+{
+    "files.associations": {
+        "*.qss": "css",
+        "iosfwd": "cpp",
+        "new": "cpp",
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "array": "cpp",
+        "sstream": "cpp",
+        "regex": "cpp",
+        "numbers": "cpp"
+    },
+
+    /*
+     * 配置java调试器的终端：
+     * externalConsole：外置终端
+     * integratedTerminal: VSCode内置终端
+     */
+    "java.debug.settings.console": "integratedTerminal",
+
+    /*
+    C:\\Program Files\\Java\\jdk1.8.0_321
+    */
+    "java.jdt.ls.java.home": "C:\\Program Files\\Java\\jdk1.8.0_321"
+}
